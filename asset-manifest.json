@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cs180proj2/static/css/main.c760abe0.css",
-    "main.js": "/cs180proj2/static/js/main.807f65d4.js",
+    "main.js": "/cs180proj2/static/js/main.9c7aa899.js",
     "static/js/453.b03e3c98.chunk.js": "/cs180proj2/static/js/453.b03e3c98.chunk.js",
     "static/media/icon.jpg": "/cs180proj2/static/media/icon.bd42ca6831e7dca15433.jpg",
     "static/media/sculpture.jpg": "/cs180proj2/static/media/sculpture.1c619ec0830ab6de53c0.jpg",
@@ -110,8 +110,8 @@
     "static/media/mask_orange4.png": "/cs180proj2/static/media/mask_orange4.fd7b9d22341b92b62a67.png",
     "static/media/blurred_dy.png": "/cs180proj2/static/media/blurred_dy.507ad1d18a4829b96895.png",
     "static/media/SleepFaces750.jpg": "/cs180proj2/static/media/SleepFaces750.edf82d49c67e13fa3a3b.jpg",
+    "static/media/space.png": "/cs180proj2/static/media/space.84f4896c19afd17ac278.png",
     "static/media/blurred_dx.png": "/cs180proj2/static/media/blurred_dx.0e314a35db340f78cde5.png",
-    "static/media/space.png": "/cs180proj2/static/media/space.561aab7ce145663dd5e7.png",
     "static/media/grad_mag_blurred_binarized.png": "/cs180proj2/static/media/grad_mag_blurred_binarized.bca3acd20da77fea9f90.png",
     "static/media/grad_mag_dog_binarized.png": "/cs180proj2/static/media/grad_mag_dog_binarized.bca3acd20da77fea9f90.png",
     "static/media/grad_mag_dog_blurred_binarized.png": "/cs180proj2/static/media/grad_mag_dog_blurred_binarized.bca3acd20da77fea9f90.png",
@@ -125,11 +125,11 @@
     "static/media/logo.svg": "/cs180proj2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cs180proj2/index.html",
     "main.c760abe0.css.map": "/cs180proj2/static/css/main.c760abe0.css.map",
-    "main.807f65d4.js.map": "/cs180proj2/static/js/main.807f65d4.js.map",
+    "main.9c7aa899.js.map": "/cs180proj2/static/js/main.9c7aa899.js.map",
     "453.b03e3c98.chunk.js.map": "/cs180proj2/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c760abe0.css",
-    "static/js/main.807f65d4.js"
+    "static/js/main.9c7aa899.js"
   ]
 }
